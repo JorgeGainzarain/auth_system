@@ -27,7 +27,7 @@ To install the Authentication System, follow these steps:
 1. Clone the repository
 2. Navigate to the project directory
 3. Install the dependencies
-4. Modify the `.env` file in the root directory and add your session_secret, this must be a long phrase
+4. Modify the `.env` file in the root directory and add your session_secret, this must be a long phrase of your choice.
 5. You can modify the port in src/index.js
 
 
