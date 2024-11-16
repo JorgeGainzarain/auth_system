@@ -35,7 +35,7 @@ To install the Authentication System, follow these steps:
 
 To use the Authentication System, follow these steps:
 
-1. Start the server with "npm start"
+1. Start the server with `npm start`
 2. Open your web browser and navigate to `http://localhost:3000`
 
 ## Project Structure
